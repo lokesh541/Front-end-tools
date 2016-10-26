@@ -16,7 +16,7 @@
           browser-sync start --server --files ./**/* 
  
  
-**Git commands** 
+###Git commands
 
      git init 
 

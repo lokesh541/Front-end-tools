@@ -1,7 +1,7 @@
 
 ##Front end tools docs
 
-**Getting Started with Browser-sync**
+###Getting Started with Browser-sync
 
    - Install browser-sync
    

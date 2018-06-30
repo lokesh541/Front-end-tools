@@ -13,7 +13,7 @@
    
     command to watch for changes in files from the current directory and it's subdirectories
             
-          browser-sync start --server --files ./**/* 
+browser-sync start --server --files="**/*" 
  
  
 ###Git commands
